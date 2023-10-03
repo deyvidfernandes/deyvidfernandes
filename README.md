@@ -1,16 +1,29 @@
-### Hi there 👋
+### Olá 👋, meu nome é Deyvid Fernandes 
+**— Sou um desenvolvedor brasileiro, movido pela paixão de solucionar desafios com tecnologia.**
 
-<!--
-**deyvidfernandes/deyvidfernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+Tenho 17 anos e já conhecia a programação há um bom tempo, mas no começo desse ano decidi começar estudar para me tornar um profissional na área. 🎯 Meu objetivo é ser um desenvolvedor fullstack. 📚 Atualmente, estou cursando o **Técnico de Desenvolvimento de Sistemas na ETEC** e uma **[Formação](https://ada.tech/sou-aluno/programas/governo-de-sao-paulo-primeiro-codigo) Front End com React na [Ada Tech](https://www.linkedin.com/school/adatechbr/)**.
 
-Here are some ideas to get you started:
+## Meus repositórios
+Nos meus repositórios você irá encontrar alguns projetos que foram feitos em cursos, e vários projetos pessoais que uso para colocar em prática meu aprendizado. O feedback construtivo é muito bem vindo, sinta-se à vontade para fornecer sugestões e me dar dicas. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<div align="center">
+  <img style="display: block" src="https://github-readme-stats.vercel.app/api?username=deyvidfernandes&show_icons=true&theme=transparent&card_width=100%"/>
+  <div>
+     <a href = "mailto:gustavdesousalima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/Gustavo-Developer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
+  
+</div>
+
+##
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,java,spring,mysql,git"/>
+  </a>
+</div>
+
+
