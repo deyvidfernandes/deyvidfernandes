@@ -12,7 +12,7 @@ Nos meus repositórios você irá encontrar alguns projetos que foram feitos em 
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,java,spring,mysql,git"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,java,spring,php,mysql,git"/>
   </a>
 </div>
 
