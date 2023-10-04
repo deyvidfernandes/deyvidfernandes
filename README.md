@@ -12,14 +12,14 @@ Nos meus repositórios você irá encontrar alguns projetos que foram feitos em 
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,java,spring,php,mysql,git"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java,spring,php,mysql,git"/>
   </a>
 </div>
 
 ##
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
     <img style="display: block" src="https://github-readme-stats.vercel.app/api?username=deyvidfernandes&show_icons=true&theme=transparent&card_width=100%"/>
   </a>
   <div>
