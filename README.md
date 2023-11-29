@@ -3,7 +3,7 @@
 > **— Sou um desenvolvedor brasileiro, movido pela paixão de solucionar desafios usando tecnologia.**
 
 ## Sobre mim
-Tenho 17 anos e já conhecia a programação há um bom tempo, mas no começo desse ano decidi começar estudar para me tornar um profissional na área. 🎯 Meu objetivo é ser um desenvolvedor fullstack. 📚 Atualmente, estou cursando o **Técnico de Desenvolvimento de Sistemas na ETEC** e uma **[Formação](https://ada.tech/sou-aluno/programas/governo-de-sao-paulo-primeiro-codigo) Front End com React na [Ada Tech](https://www.linkedin.com/school/adatechbr/)**.
+Tenho 17 anos e já conhecia a programação há um bom tempo, mas no começo desse ano decidi começar estudar para me tornar um profissional na área. 🎯 Meu objetivo é ser um desenvolvedor fullstack. 📚 Atualmente, estou cursando o **Técnico de Desenvolvimento de Sistemas na ETEC** e recentemente conclui uma **[Formação](https://ada.tech/sou-aluno/programas/governo-de-sao-paulo-primeiro-codigo) Front End com React na [Ada Tech](https://www.linkedin.com/school/adatechbr/)**, agora meu foco é aprofundar o conhecimento que eu obtive neste curso.
 
 ## Meus repositórios
 Nos meus repositórios você irá encontrar alguns projetos que foram feitos em cursos, e vários projetos pessoais que desenvolvo para colocar em prática meu aprendizado. O feedback construtivo é muito bem vindo, sinta-se à vontade para fornecer sugestões e me dar dicas. 🚀
